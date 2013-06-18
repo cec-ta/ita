@@ -1,0 +1,13 @@
+========================================================================================================================
+Title: Report # 01
+========================================================================================================================
+
+ABCD_BAT-01.01: Merchant Emails, validate each node value of the specified merchant displayed in the XML with the DB.
+Server: 		http://phx-vqfp1.ebay.com:8000
+Database: 		vtest
+URL: 			http://phx-qfp1.ebay.com:8000/merchants/reportEmails
+Merchant ID: 	112345
+
+Validations:
+				BLOCK: No Server Response, http://phx-vqfp1.ebay.com:8000
+------------------------------------------------------------------------------------------------------------------------

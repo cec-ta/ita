@@ -1,0 +1,18 @@
+Run options: 
+
+# Running tests:
+
+Server-list:		"phx-pkadu-us1.ebay.com"
+output file name:	Post_QA_Test_result_US_06_01_2013_180334.txt
+1
+phx-pkadu-us.ebay.com
+http://phx-pkadu-us.ebay.com:8000/?query=sony+plasma&country_id=1&lang_id=1&linkin_id=3033102&sbh_id=1&weight_group_id=1&request_id=null&nres_to_retrieve=1500
+http://phx-pkadu-us.ebay.com:8000/?query=sony+plasma&country_id=1&lang_id=1&linkin_id=3033102&sbh_id=1&weight_group_id=1&request_id=null&nres_to_retrieve=1600
+http://phx-pkadu-us.ebay.com:8000/?query=sony+plasma&country_id=1&lang_id=1&linkin_id=3033102&sbh_id=1&weight_group_id=1&request_id=null&nres_to_retrieve=1700
+http://phx-pkadu-us.ebay.com:8000/?query=sony+plasma&country_id=1&lang_id=1&linkin_id=3033102&sbh_id=1&weight_group_id=1&request_id=null&nres_to_retrieve=1800
+http://phx-pkadu-us.ebay.com:8000/?query=sony+plasma&country_id=1&lang_id=1&linkin_id=3033102&sbh_id=1&weight_group_id=1&request_id=null&nres_to_retrieve=1900
+http://phx-pkadu-us.ebay.com:8000/?query=sony+plasma&country_id=1&lang_id=1&linkin_id=3033102&sbh_id=1&weight_group_id=1&request_id=null&nres_to_retrieve=2000
+
+Finished tests in 5.326000s, 0.1878 tests/s, 0.0000 assertions/s.
+
+1 tests, 0 assertions, 0 failures, 0 errors, 0 skips
